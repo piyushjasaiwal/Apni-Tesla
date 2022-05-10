@@ -21,6 +21,8 @@ The model once trained on the training dataset has been tested on the testing da
 
 ### Steering angle Prediction on a Straight Road
 
-![]()
+![alt text](https://github.com/piyushjasaiwal/Apni-Tesla/blob/main/images/straight.png?raw=true)
 
-## Steering angle Prediction on a Curved Road
+### Steering angle Prediction on a Curved Road
+
+![alt text](https://github.com/piyushjasaiwal/Apni-Tesla/blob/main/images/curved.png?raw=true)
